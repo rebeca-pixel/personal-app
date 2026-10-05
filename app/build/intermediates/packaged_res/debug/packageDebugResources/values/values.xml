@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="gcm_defaultSenderId" translatable="false">901124976343</string>
+    <string name="google_api_key" translatable="false">AIzaSyD6_2Td5Rsh2CcD1-f22g80ix5b37p9ZwQ</string>
+    <string name="google_app_id" translatable="false">1:901124976343:android:8fb03c3b8654bf0b07ca92</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyD6_2Td5Rsh2CcD1-f22g80ix5b37p9ZwQ</string>
+    <string name="google_storage_bucket" translatable="false">personal-app-6f261.firebasestorage.app</string>
+    <string name="project_id" translatable="false">personal-app-6f261</string>
+    <style name="Theme.PE" parent="android:Theme.Material.Light.NoActionBar">
+<item name="android:statusBarColor">#4B2480</item></style>
+</resources>

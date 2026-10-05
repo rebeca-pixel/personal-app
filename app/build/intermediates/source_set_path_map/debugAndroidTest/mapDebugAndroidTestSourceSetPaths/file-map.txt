@@ -1,0 +1,4 @@
+com.knockturn.personalexecutive.test.app-androidTest-0 C:\personal app\PersonalExecutive\app\build\generated\res\resValues\androidTest\debug
+com.knockturn.personalexecutive.test.app-mergeDebugAndroidTestResources-1 C:\personal app\PersonalExecutive\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\merged.dir
+com.knockturn.personalexecutive.test.app-mergeDebugAndroidTestResources-2 C:\personal app\PersonalExecutive\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\stripped.dir
+com.knockturn.personalexecutive.test.app-debugAndroidTest-3 C:\personal app\PersonalExecutive\app\build\intermediates\merged_res\debugAndroidTest\mergeDebugAndroidTestResources

@@ -1,0 +1,51 @@
+com.knockturn.personalexecutive.app-lifecycle-viewmodel-release-0 C:\Users\admin\.gradle\caches\transforms-4\0315e21bb4701cb664348eee0b1904ae\transformed\lifecycle-viewmodel-release\res
+com.knockturn.personalexecutive.app-firebase-messaging-24.0.0-1 C:\Users\admin\.gradle\caches\transforms-4\08a76085bfd35f9a3beb53cf95ff05e9\transformed\firebase-messaging-24.0.0\res
+com.knockturn.personalexecutive.app-material-icons-core-release-2 C:\Users\admin\.gradle\caches\transforms-4\1740d7e388904054ebc3c9e4099c5b5a\transformed\material-icons-core-release\res
+com.knockturn.personalexecutive.app-animation-release-3 C:\Users\admin\.gradle\caches\transforms-4\1dbdf850916e7b5cffca0d01e5fd8526\transformed\animation-release\res
+com.knockturn.personalexecutive.app-activity-1.9.1-4 C:\Users\admin\.gradle\caches\transforms-4\2056977adfbe5e337e89c34a30467527\transformed\activity-1.9.1\res
+com.knockturn.personalexecutive.app-ui-unit-release-5 C:\Users\admin\.gradle\caches\transforms-4\205b61a8a46a0e9514781e716f75730a\transformed\ui-unit-release\res
+com.knockturn.personalexecutive.app-customview-poolingcontainer-1.0.0-6 C:\Users\admin\.gradle\caches\transforms-4\25d079008f98532f0cce9877e68b7b94\transformed\customview-poolingcontainer-1.0.0\res
+com.knockturn.personalexecutive.app-savedstate-ktx-1.2.1-7 C:\Users\admin\.gradle\caches\transforms-4\26607618ef9519b38f396086255c0822\transformed\savedstate-ktx-1.2.1\res
+com.knockturn.personalexecutive.app-material-ripple-release-8 C:\Users\admin\.gradle\caches\transforms-4\2ba086822abaec3b5a1fa56001ee18fe\transformed\material-ripple-release\res
+com.knockturn.personalexecutive.app-runtime-saveable-release-9 C:\Users\admin\.gradle\caches\transforms-4\2be6599a5e1b8694d3417d28e5e74f65\transformed\runtime-saveable-release\res
+com.knockturn.personalexecutive.app-ui-release-10 C:\Users\admin\.gradle\caches\transforms-4\2fc2d80a4c451810365f177fff036d0a\transformed\ui-release\res
+com.knockturn.personalexecutive.app-profileinstaller-1.3.1-11 C:\Users\admin\.gradle\caches\transforms-4\35be0532e9c9ad707a1548ee3a3cd148\transformed\profileinstaller-1.3.1\res
+com.knockturn.personalexecutive.app-material-icons-extended-release-12 C:\Users\admin\.gradle\caches\transforms-4\5000ece3d4a411982736871f0e862cd4\transformed\material-icons-extended-release\res
+com.knockturn.personalexecutive.app-lifecycle-livedata-core-ktx-2.8.4-13 C:\Users\admin\.gradle\caches\transforms-4\502329e4c76ec78a82544a5e43508568\transformed\lifecycle-livedata-core-ktx-2.8.4\res
+com.knockturn.personalexecutive.app-savedstate-1.2.1-14 C:\Users\admin\.gradle\caches\transforms-4\50af11ec51f3d53269335da2e6c39c30\transformed\savedstate-1.2.1\res
+com.knockturn.personalexecutive.app-foundation-release-15 C:\Users\admin\.gradle\caches\transforms-4\6887b6a69b01543270fc559ca372d11c\transformed\foundation-release\res
+com.knockturn.personalexecutive.app-ui-graphics-release-16 C:\Users\admin\.gradle\caches\transforms-4\699f385ff201d7816b78116c91355f99\transformed\ui-graphics-release\res
+com.knockturn.personalexecutive.app-annotation-experimental-1.4.0-17 C:\Users\admin\.gradle\caches\transforms-4\7b050996d6611385cac41fee205eb2d3\transformed\annotation-experimental-1.4.0\res
+com.knockturn.personalexecutive.app-core-1.13.1-18 C:\Users\admin\.gradle\caches\transforms-4\86d139a0de0560a1a2e026d7936fd794\transformed\core-1.13.1\res
+com.knockturn.personalexecutive.app-lifecycle-viewmodel-compose-release-19 C:\Users\admin\.gradle\caches\transforms-4\8eb70d9f60cfdc37a6ec68049ea56776\transformed\lifecycle-viewmodel-compose-release\res
+com.knockturn.personalexecutive.app-material3-release-20 C:\Users\admin\.gradle\caches\transforms-4\96584747541ad21de4c62d70aa9c54e1\transformed\material3-release\res
+com.knockturn.personalexecutive.app-ui-geometry-release-21 C:\Users\admin\.gradle\caches\transforms-4\a413c5c41cd89958822f2dc49507af86\transformed\ui-geometry-release\res
+com.knockturn.personalexecutive.app-emoji2-1.3.0-22 C:\Users\admin\.gradle\caches\transforms-4\a5b1ddb4dd34aceeb2b802e969e6092c\transformed\emoji2-1.3.0\res
+com.knockturn.personalexecutive.app-foundation-layout-release-23 C:\Users\admin\.gradle\caches\transforms-4\a9107ad5f0e0dc6d84ddf645b245473c\transformed\foundation-layout-release\res
+com.knockturn.personalexecutive.app-runtime-release-24 C:\Users\admin\.gradle\caches\transforms-4\a93e27a55c4d4c15114f6b3c7b2d9b5f\transformed\runtime-release\res
+com.knockturn.personalexecutive.app-lifecycle-livedata-2.8.4-25 C:\Users\admin\.gradle\caches\transforms-4\b3d23dbd4ce846cb28936b0c5c64f3dd\transformed\lifecycle-livedata-2.8.4\res
+com.knockturn.personalexecutive.app-animation-core-release-26 C:\Users\admin\.gradle\caches\transforms-4\b68041e8521db0e09040fa8c479afa3b\transformed\animation-core-release\res
+com.knockturn.personalexecutive.app-ui-text-release-27 C:\Users\admin\.gradle\caches\transforms-4\bb7b3a959a209fc1d4ac6748bb9e5579\transformed\ui-text-release\res
+com.knockturn.personalexecutive.app-lifecycle-runtime-release-28 C:\Users\admin\.gradle\caches\transforms-4\bc97bdae721d0fb068d1aa1fa6f4f9e0\transformed\lifecycle-runtime-release\res
+com.knockturn.personalexecutive.app-activity-ktx-1.9.1-29 C:\Users\admin\.gradle\caches\transforms-4\be89410e0215e14a8bc281c52f7e9f3e\transformed\activity-ktx-1.9.1\res
+com.knockturn.personalexecutive.app-play-services-basement-18.3.0-30 C:\Users\admin\.gradle\caches\transforms-4\bef41bd716cfd8da143f9ab04fa4424d\transformed\play-services-basement-18.3.0\res
+com.knockturn.personalexecutive.app-core-ktx-1.13.1-31 C:\Users\admin\.gradle\caches\transforms-4\c9a18756168c4a7ab0cf997e2910e84c\transformed\core-ktx-1.13.1\res
+com.knockturn.personalexecutive.app-lifecycle-livedata-core-2.8.4-32 C:\Users\admin\.gradle\caches\transforms-4\cd26c01d56ad72e6ead12c39cd172d81\transformed\lifecycle-livedata-core-2.8.4\res
+com.knockturn.personalexecutive.app-play-services-base-18.0.1-33 C:\Users\admin\.gradle\caches\transforms-4\cdfedde4d0cb084034cefe5106a79a39\transformed\play-services-base-18.0.1\res
+com.knockturn.personalexecutive.app-lifecycle-runtime-ktx-release-34 C:\Users\admin\.gradle\caches\transforms-4\d0b37c89fd7533083e61d799a2d4e718\transformed\lifecycle-runtime-ktx-release\res
+com.knockturn.personalexecutive.app-lifecycle-viewmodel-savedstate-2.8.4-35 C:\Users\admin\.gradle\caches\transforms-4\da4860e72b44045ccb5ec04d96b4ea5a\transformed\lifecycle-viewmodel-savedstate-2.8.4\res
+com.knockturn.personalexecutive.app-lifecycle-process-2.8.4-36 C:\Users\admin\.gradle\caches\transforms-4\da8ed931745c655b8f116bf8e3ee23e6\transformed\lifecycle-process-2.8.4\res
+com.knockturn.personalexecutive.app-lifecycle-viewmodel-ktx-2.8.4-37 C:\Users\admin\.gradle\caches\transforms-4\e817e14577e4b2a50e798109cb708e91\transformed\lifecycle-viewmodel-ktx-2.8.4\res
+com.knockturn.personalexecutive.app-core-runtime-2.2.0-38 C:\Users\admin\.gradle\caches\transforms-4\e9dc5e97f7c97f703fac8316d19bbad4\transformed\core-runtime-2.2.0\res
+com.knockturn.personalexecutive.app-ui-util-release-39 C:\Users\admin\.gradle\caches\transforms-4\eea721566a53ef47630ef77c73ab393b\transformed\ui-util-release\res
+com.knockturn.personalexecutive.app-startup-runtime-1.1.1-40 C:\Users\admin\.gradle\caches\transforms-4\f9a730f0af47041fd6da89ace290ca84\transformed\startup-runtime-1.1.1\res
+com.knockturn.personalexecutive.app-firebase-common-21.0.0-41 C:\Users\admin\.gradle\caches\transforms-4\fa10697f263963146316e2c4ad6fdbc1\transformed\firebase-common-21.0.0\res
+com.knockturn.personalexecutive.app-activity-compose-1.9.1-42 C:\Users\admin\.gradle\caches\transforms-4\fee9df9597e629c3c8d1a7eb7ffe9293\transformed\activity-compose-1.9.1\res
+com.knockturn.personalexecutive.app-pngs-43 C:\personal app\PersonalExecutive\app\build\generated\res\pngs\debug
+com.knockturn.personalexecutive.app-res-44 C:\personal app\PersonalExecutive\app\build\generated\res\processDebugGoogleServices
+com.knockturn.personalexecutive.app-resValues-45 C:\personal app\PersonalExecutive\app\build\generated\res\resValues\debug
+com.knockturn.personalexecutive.app-packageDebugResources-46 C:\personal app\PersonalExecutive\app\build\intermediates\incremental\debug\packageDebugResources\merged.dir
+com.knockturn.personalexecutive.app-packageDebugResources-47 C:\personal app\PersonalExecutive\app\build\intermediates\incremental\debug\packageDebugResources\stripped.dir
+com.knockturn.personalexecutive.app-debug-48 C:\personal app\PersonalExecutive\app\build\intermediates\merged_res\debug\mergeDebugResources
+com.knockturn.personalexecutive.app-debug-49 C:\personal app\PersonalExecutive\app\src\debug\res
+com.knockturn.personalexecutive.app-main-50 C:\personal app\PersonalExecutive\app\src\main\res

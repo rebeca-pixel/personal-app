@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "901124976343",
+    "project_id": "personal-app-6f261",
+    "storage_bucket": "personal-app-6f261.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:901124976343:android:8fb03c3b8654bf0b07ca92",
+        "android_client_info": {
+          "package_name": "com.knockturn.personalexecutive"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD6_2Td5Rsh2CcD1-f22g80ix5b37p9ZwQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
